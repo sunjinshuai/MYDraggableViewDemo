@@ -7,7 +7,7 @@ An UIView category which make view become draggable.
 [![Platform](https://img.shields.io/cocoapods/p/MYUtils.svg?style=flat)](http://cocoapods.org/pods/MYUtils)
 <img src="https://img.shields.io/badge/made%20with-%3C3-red.svg">
 
-[效果图](https://github.com/sunjinshuai/MYDraggableViewDemo/blob/master/Draggable.gif)
+![效果图](https://github.com/sunjinshuai/MYDraggableViewDemo/blob/master/Draggable.gif)
 
 ## Usage
 
